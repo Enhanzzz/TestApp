@@ -1,1 +1,0 @@
-Hi! This is the application I am currently working on!
